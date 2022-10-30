@@ -1,0 +1,1625 @@
+{
+    "site_id": "MLB",
+    "country_default_time_zone": "GMT-03:00",
+    "query": "Samsung Galaxy A20",
+    "paging": {
+        "total": 161,
+        "primary_results": 13,
+        "offset": 0,
+        "limit": 3
+    },
+    "results": [
+        {
+            "id": "MLB2199044384",
+            "site_id": "MLB",
+            "title": "Samsung Galaxy A20s Dual Sim 32 Gb Preto 3 Gb Ram",
+            "seller": {
+                "id": 78474842,
+                "permalink": "http://perfil.mercadolivre.com.br/PHONE_CENTER",
+                "registration_date": "2005-02-01T06:37:17.000-04:00",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": [
+                    "normal",
+                    "mshops",
+                    "credits_profile",
+                    "messages_as_seller"
+                ],
+                "seller_reputation": {
+                    "power_seller_status": "gold",
+                    "level_id": "5_green",
+                    "metrics": {
+                        "cancellations": {
+                            "period": "60 days",
+                            "rate": 0,
+                            "value": 1
+                        },
+                        "claims": {
+                            "period": "60 days",
+                            "rate": 0,
+                            "value": 0
+                        },
+                        "delayed_handling_time": {
+                            "period": "60 days",
+                            "rate": 0,
+                            "value": 0
+                        },
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 258
+                        }
+                    },
+                    "transactions": {
+                        "canceled": 152,
+                        "period": "historic",
+                        "total": 1423,
+                        "ratings": {
+                            "negative": 0.01,
+                            "neutral": 0.01,
+                            "positive": 0.98
+                        },
+                        "completed": 1271
+                    }
+                }
+            },
+            "price": 1899,
+            "prices": {
+                "id": "MLB2199044384",
+                "prices": [
+                    {
+                        "id": "28",
+                        "type": "standard",
+                        "amount": 1899,
+                        "regular_amount": null,
+                        "currency_id": "BRL",
+                        "last_updated": "2022-07-02T18:20:50Z",
+                        "conditions": {
+                            "context_restrictions": [],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "exchange_rate_context": "DEFAULT",
+                        "metadata": {}
+                    }
+                ],
+                "presentation": {
+                    "display_currency": "BRL"
+                },
+                "payment_method_prices": [],
+                "reference_prices": [
+                    {
+                        "id": "26",
+                        "type": "min_standard",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "amount": 1491,
+                        "currency_id": "BRL",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-06-04T04:25:28Z"
+                    },
+                    {
+                        "id": "27",
+                        "type": "was",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": "2022-06-04T04:25:28Z",
+                            "end_time": "2022-06-11T04:25:28Z",
+                            "eligible": true
+                        },
+                        "amount": 1999,
+                        "currency_id": "BRL",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-06-04T04:25:28Z"
+                    }
+                ],
+                "purchase_discounts": []
+            },
+            "sale_price": null,
+            "currency_id": "BRL",
+            "available_quantity": 4,
+            "sold_quantity": 22,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2042-03-03T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://www.mercadolivre.com.br/samsung-galaxy-a20s-dual-sim-32-gb-preto-3-gb-ram/p/MLB15383618",
+            "thumbnail": "http://http2.mlstatic.com/D_953593-MLA40671997786_022020-I.jpg",
+            "thumbnail_id": "953593-MLA40671997786_022020",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 158.25,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "S\u00e3o Paulo",
+                "city_id": "BR-SP-58",
+                "city_name": "Sumar\u00e9"
+            },
+            "promotions": [],
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "xd_drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "S\u00e3o Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-58",
+                    "name": "Sumar\u00e9"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "206",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "206",
+                            "name": "Samsung"
+                        }
+                    ],
+                    "attribute_group_name": "Outros",
+                    "source": 1,
+                    "value_type": "string",
+                    "id": "BRAND",
+                    "name": "Marca",
+                    "value_name": "Samsung",
+                    "attribute_group_id": "OTHERS"
+                },
+                {
+                    "name": "Modelo de GPU",
+                    "value_id": "7524181",
+                    "value_struct": null,
+                    "value_type": "string",
+                    "id": "GPU_MODEL",
+                    "value_name": "Adreno 506",
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "7524181",
+                            "name": "Adreno 506"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 1
+                },
+                {
+                    "source": 6808261514773724,
+                    "value_id": "2230284",
+                    "value_name": "Novo",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "2230284",
+                            "name": "Novo",
+                            "struct": null,
+                            "source": 6808261514773724
+                        }
+                    ],
+                    "attribute_group_name": "Outros",
+                    "id": "ITEM_CONDITION",
+                    "name": "Condi\u00e7\u00e3o do item",
+                    "attribute_group_id": "OTHERS",
+                    "value_type": "list"
+                },
+                {
+                    "value_id": "322977",
+                    "value_name": "Galaxy A",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 1,
+                    "name": "Linha",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "322977",
+                            "name": "Galaxy A"
+                        }
+                    ],
+                    "value_type": "string",
+                    "id": "LINE"
+                },
+                {
+                    "value_name": "A20s Dual SIM",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 4709228965570453,
+                    "value_type": "string",
+                    "id": "MODEL",
+                    "name": "Modelo",
+                    "value_id": "11824708",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "source": 4709228965570453,
+                            "id": "11824708",
+                            "name": "A20s Dual SIM",
+                            "struct": null
+                        }
+                    ]
+                },
+                {
+                    "source": 1,
+                    "value_type": "string",
+                    "id": "PROCESSOR_MODEL",
+                    "name": "Modelo do processador",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "value_id": "6936759",
+                    "value_name": "Snapdragon 450",
+                    "values": [
+                        {
+                            "id": "6936759",
+                            "name": "Snapdragon 450",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "WEIGHT",
+                    "name": "Peso",
+                    "value_id": "7084409",
+                    "value_name": "183 g",
+                    "value_struct": {
+                        "number": 183,
+                        "unit": "g"
+                    },
+                    "values": [
+                        {
+                            "name": "183 g",
+                            "struct": {
+                                "number": 183,
+                                "unit": "g"
+                            },
+                            "source": 1,
+                            "id": "7084409"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 1,
+                    "value_type": "number_unit"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1055",
+            "official_store_id": null,
+            "domain_id": "MLB-CELLPHONES",
+            "catalog_product_id": "MLB15383618",
+            "tags": [
+                "good_quality_picture",
+                "good_quality_thumbnail",
+                "extended_warranty_eligible",
+                "immediate_payment",
+                "cart_eligible",
+                "shipping_guaranteed"
+            ],
+            "catalog_listing": true,
+            "use_thumbnail_id": true,
+            "offer_score": null,
+            "offer_share": null,
+            "match_score": null,
+            "winner_item_id": null,
+            "melicoin": null,
+            "discounts": null,
+            "inventory_id": null,
+            "order_backend": 1
+        },
+        {
+            "id": "MLB2784394722",
+            "site_id": "MLB",
+            "title": "Samsung Galaxy A20 Dual Sim 32 Gb Vermelho 3 Gb Ram Usado Nf",
+            "seller": {
+                "id": 288772222,
+                "permalink": "http://perfil.mercadolivre.com.br/ROKET+STORE",
+                "registration_date": "2017-12-05T18:10:22.000-04:00",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": [
+                    "normal",
+                    "eshop",
+                    "mshops",
+                    "credits_profile",
+                    "messages_as_seller"
+                ],
+                "eshop": {
+                    "seller": 288772222,
+                    "eshop_rubro": null,
+                    "eshop_id": 434164,
+                    "nick_name": "ROCKET TECNOLOGIA",
+                    "site_id": "MLB",
+                    "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/288772222v12b929.png",
+                    "eshop_status_id": 1,
+                    "eshop_experience": 0,
+                    "eshop_locations": []
+                },
+                "seller_reputation": {
+                    "power_seller_status": "platinum",
+                    "level_id": "5_green",
+                    "metrics": {
+                        "cancellations": {
+                            "period": "60 days",
+                            "rate": 0.0132,
+                            "value": 7
+                        },
+                        "claims": {
+                            "period": "60 days",
+                            "rate": 0.0151,
+                            "value": 8
+                        },
+                        "delayed_handling_time": {
+                            "period": "60 days",
+                            "rate": 0.0163,
+                            "value": 8
+                        },
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 467
+                        }
+                    },
+                    "transactions": {
+                        "canceled": 467,
+                        "period": "historic",
+                        "total": 4770,
+                        "ratings": {
+                            "negative": 0.07,
+                            "neutral": 0.02,
+                            "positive": 0.91
+                        },
+                        "completed": 4303
+                    }
+                }
+            },
+            "price": 650,
+            "prices": {
+                "id": "MLB2784394722",
+                "prices": [
+                    {
+                        "id": "2",
+                        "type": "standard",
+                        "amount": 650,
+                        "regular_amount": null,
+                        "currency_id": "BRL",
+                        "last_updated": "2022-10-19T23:48:20Z",
+                        "conditions": {
+                            "context_restrictions": [],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "exchange_rate_context": "DEFAULT",
+                        "metadata": {}
+                    }
+                ],
+                "presentation": {
+                    "display_currency": "BRL"
+                },
+                "payment_method_prices": [],
+                "reference_prices": [
+                    {
+                        "id": "3",
+                        "type": "min_standard",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "amount": 650,
+                        "currency_id": "BRL",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-10-19T23:48:21Z"
+                    }
+                ],
+                "purchase_discounts": []
+            },
+            "sale_price": null,
+            "currency_id": "BRL",
+            "available_quantity": 1,
+            "sold_quantity": 1,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2042-08-29T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://produto.mercadolivre.com.br/MLB-2784394722-samsung-galaxy-a20-dual-sim-32-gb-vermelho-3-gb-ram-usado-nf-_JM",
+            "thumbnail": "http://http2.mlstatic.com/D_722167-MLB52031308863_102022-O.jpg",
+            "thumbnail_id": "722167-MLB52031308863_102022",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 54.17,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-PR",
+                "state_name": "Paran\u00e1",
+                "city_id": "TUxCQ0NVUjYyZmY1",
+                "city_name": "Curitiba"
+            },
+            "promotions": [],
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "self_service_out",
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-PR",
+                    "name": "Paran\u00e1"
+                },
+                "city": {
+                    "id": "TUxCQ0NVUjYyZmY1",
+                    "name": "Curitiba"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "value_id": "206",
+                    "value_name": "Samsung",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "name": "Samsung",
+                            "struct": null,
+                            "source": 2860837171021627,
+                            "id": "206"
+                        }
+                    ],
+                    "attribute_group_name": "Outros",
+                    "value_type": "string",
+                    "id": "BRAND",
+                    "attribute_group_id": "OTHERS",
+                    "source": 2860837171021627,
+                    "name": "Marca"
+                },
+                {
+                    "value_id": "7543003",
+                    "value_name": "Mali-G71 MP2",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "source": 7567447101417086,
+                    "value_type": "string",
+                    "id": "GPU_MODEL",
+                    "name": "Modelo de GPU",
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 7567447101417086,
+                            "id": "7543003",
+                            "name": "Mali-G71 MP2"
+                        }
+                    ],
+                    "attribute_group_name": "Outros"
+                },
+                {
+                    "values": [
+                        {
+                            "id": "2230582",
+                            "name": "Recondicionado",
+                            "struct": null,
+                            "source": 2860837171021627
+                        }
+                    ],
+                    "source": 2860837171021627,
+                    "attribute_group_name": "Outros",
+                    "value_type": "list",
+                    "id": "ITEM_CONDITION",
+                    "name": "Condi\u00e7\u00e3o do item",
+                    "value_id": "2230582",
+                    "value_name": "Recondicionado",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS"
+                },
+                {
+                    "value_name": "Galaxy A",
+                    "value_struct": null,
+                    "attribute_group_name": "Outros",
+                    "id": "LINE",
+                    "name": "Linha",
+                    "value_id": "322977",
+                    "values": [
+                        {
+                            "name": "Galaxy A",
+                            "struct": null,
+                            "source": 2860837171021627,
+                            "id": "322977"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "source": 2860837171021627,
+                    "value_type": "string"
+                },
+                {
+                    "value_struct": null,
+                    "attribute_group_name": "Outros",
+                    "value_name": "A20 Duos",
+                    "name": "Modelo",
+                    "value_id": "7103125",
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 2860837171021627,
+                            "id": "7103125",
+                            "name": "A20 Duos"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "source": 2860837171021627,
+                    "value_type": "string",
+                    "id": "MODEL"
+                },
+                {
+                    "attribute_group_name": "Outros",
+                    "source": 7567447101417086,
+                    "value_id": "7444531",
+                    "name": "Modelo do processador",
+                    "value_name": "Exynos 7884",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "7444531",
+                            "name": "Exynos 7884",
+                            "struct": null,
+                            "source": 7567447101417086
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "value_type": "string",
+                    "id": "PROCESSOR_MODEL"
+                },
+                {
+                    "value_id": "2088030",
+                    "value_struct": {
+                        "number": 169,
+                        "unit": "g"
+                    },
+                    "values": [
+                        {
+                            "name": "169 g",
+                            "struct": {
+                                "number": 169,
+                                "unit": "g"
+                            },
+                            "source": 7567447101417086,
+                            "id": "2088030"
+                        }
+                    ],
+                    "attribute_group_name": "Outros",
+                    "source": 7567447101417086,
+                    "value_type": "number_unit",
+                    "id": "WEIGHT",
+                    "name": "Peso",
+                    "value_name": "169 g",
+                    "attribute_group_id": "OTHERS"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1055",
+            "official_store_id": null,
+            "domain_id": "MLB-CELLPHONES",
+            "catalog_product_id": "MLB14643306",
+            "tags": [
+                "good_quality_thumbnail",
+                "good_quality_picture",
+                "immediate_payment",
+                "cart_eligible",
+                "shipping_guaranteed"
+            ],
+            "order_backend": 2,
+            "use_thumbnail_id": false,
+            "offer_score": null,
+            "offer_share": null,
+            "match_score": null,
+            "winner_item_id": null,
+            "melicoin": null,
+            "discounts": null,
+            "inventory_id": null
+        },
+        {
+            "id": "MLB1508706340",
+            "site_id": "MLB",
+            "title": "Samsung Galaxy A10 Dual Sim 32 Gb Preto 2 Gb Ram",
+            "seller": {
+                "id": 97995353,
+                "permalink": "http://perfil.mercadolivre.com.br/TOPCELL+E-SHOP",
+                "registration_date": "2006-09-08T20:01:09.000-04:00",
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": [
+                    "normal",
+                    "eshop",
+                    "mshops",
+                    "messages_as_seller"
+                ],
+                "eshop": {
+                    "seller": 97995353,
+                    "eshop_rubro": null,
+                    "eshop_id": 289830,
+                    "nick_name": "TOPCELL E-SHOP",
+                    "site_id": "MLB",
+                    "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/97995353vcbb228.png",
+                    "eshop_status_id": 1,
+                    "eshop_experience": 0,
+                    "eshop_locations": []
+                },
+                "seller_reputation": {
+                    "power_seller_status": "platinum",
+                    "level_id": "5_green",
+                    "metrics": {
+                        "cancellations": {
+                            "period": "60 days",
+                            "rate": 0.0055,
+                            "value": 7
+                        },
+                        "claims": {
+                            "period": "60 days",
+                            "rate": 0.0119,
+                            "value": 15
+                        },
+                        "delayed_handling_time": {
+                            "period": "60 days",
+                            "rate": 0.0044,
+                            "value": 5
+                        },
+                        "sales": {
+                            "period": "60 days",
+                            "completed": 1137
+                        }
+                    },
+                    "transactions": {
+                        "canceled": 544,
+                        "period": "historic",
+                        "total": 5208,
+                        "ratings": {
+                            "negative": 0.04,
+                            "neutral": 0.02,
+                            "positive": 0.94
+                        },
+                        "completed": 4664
+                    }
+                }
+            },
+            "price": 1298,
+            "prices": {
+                "id": "MLB1508706340",
+                "prices": [
+                    {
+                        "id": "3",
+                        "type": "standard",
+                        "amount": 1298,
+                        "regular_amount": null,
+                        "currency_id": "BRL",
+                        "last_updated": "2022-10-20T13:58:57Z",
+                        "conditions": {
+                            "context_restrictions": [],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "exchange_rate_context": "DEFAULT",
+                        "metadata": {}
+                    }
+                ],
+                "presentation": {
+                    "display_currency": "BRL"
+                },
+                "payment_method_prices": [],
+                "reference_prices": [
+                    {
+                        "id": "4",
+                        "type": "min_standard",
+                        "conditions": {
+                            "context_restrictions": [
+                                "channel_marketplace"
+                            ],
+                            "start_time": null,
+                            "end_time": null,
+                            "eligible": true
+                        },
+                        "amount": 1298,
+                        "currency_id": "BRL",
+                        "exchange_rate_context": "DEFAULT",
+                        "tags": [],
+                        "last_updated": "2022-10-20T13:58:58Z"
+                    }
+                ],
+                "purchase_discounts": []
+            },
+            "sale_price": null,
+            "currency_id": "BRL",
+            "available_quantity": 8,
+            "sold_quantity": 32,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_pro",
+            "stop_time": "2040-04-23T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://www.mercadolivre.com.br/samsung-galaxy-a10-dual-sim-32-gb-preto-2-gb-ram/p/MLB14648948",
+            "thumbnail": "http://http2.mlstatic.com/D_900577-MLA40089839544_122019-I.jpg",
+            "thumbnail_id": "900577-MLA40089839544_122019",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 108.17,
+                "rate": 0,
+                "currency_id": "BRL"
+            },
+            "address": {
+                "state_id": "BR-SP",
+                "state_name": "S\u00e3o Paulo",
+                "city_id": "BR-SP-44",
+                "city_name": "S\u00e3o Paulo"
+            },
+            "promotions": [],
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": [
+                    "mandatory_free_shipping"
+                ],
+                "logistic_type": "cross_docking",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "BR",
+                    "name": "Brasil"
+                },
+                "state": {
+                    "id": "BR-SP",
+                    "name": "S\u00e3o Paulo"
+                },
+                "city": {
+                    "id": "BR-SP-44",
+                    "name": "S\u00e3o Paulo"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "id": "BRAND",
+                    "value_id": "206",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "206",
+                            "name": "Samsung",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "source": 1,
+                    "value_type": "string",
+                    "name": "Marca",
+                    "value_name": "Samsung",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros"
+                },
+                {
+                    "id": "GPU_MODEL",
+                    "value_id": "7543003",
+                    "attribute_group_id": "OTHERS",
+                    "source": 1,
+                    "name": "Modelo de GPU",
+                    "value_name": "Mali-G71 MP2",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "7543003",
+                            "name": "Mali-G71 MP2"
+                        }
+                    ],
+                    "attribute_group_name": "Outros",
+                    "value_type": "string"
+                },
+                {
+                    "name": "Condi\u00e7\u00e3o do item",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "name": "Novo",
+                            "struct": null,
+                            "source": 3045741222775799,
+                            "id": "2230284"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "source": 3045741222775799,
+                    "value_type": "list",
+                    "id": "ITEM_CONDITION",
+                    "value_id": "2230284",
+                    "value_name": "Novo"
+                },
+                {
+                    "value_id": "322977",
+                    "value_name": "Galaxy A",
+                    "values": [
+                        {
+                            "id": "322977",
+                            "name": "Galaxy A",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_name": "Outros",
+                    "value_type": "string",
+                    "id": "LINE",
+                    "name": "Linha",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "source": 1
+                },
+                {
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "7112057",
+                            "name": "A10 Duos",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "value_type": "string",
+                    "id": "MODEL",
+                    "name": "Modelo",
+                    "value_name": "A10 Duos",
+                    "value_id": "7112057",
+                    "source": 1
+                },
+                {
+                    "value_struct": {
+                        "number": 16,
+                        "unit": "cm"
+                    },
+                    "attribute_group_id": "OTHERS",
+                    "value_type": "number_unit",
+                    "id": "PACKAGE_LENGTH",
+                    "name": "Comprimento da embalagem",
+                    "value_id": null,
+                    "source": 4333789534002961,
+                    "value_name": "16 cm",
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "16 cm",
+                            "struct": {
+                                "unit": "cm",
+                                "number": 16
+                            },
+                            "source": 4333789534002961
+                        }
+                    ],
+                    "attribute_group_name": "Outros"
+                },
+                {
+                    "name": "Peso da embalagem",
+                    "value_struct": {
+                        "number": 290,
+                        "unit": "g"
+                    },
+                    "values": [
+                        {
+                            "id": null,
+                            "name": "290 g",
+                            "struct": {
+                                "number": 290,
+                                "unit": "g"
+                            },
+                            "source": 4333789534002961
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "id": "PACKAGE_WEIGHT",
+                    "value_name": "290 g",
+                    "attribute_group_name": "Outros",
+                    "source": 4333789534002961,
+                    "value_type": "number_unit",
+                    "value_id": null
+                },
+                {
+                    "id": "PROCESSOR_MODEL",
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 1,
+                            "id": "7444531",
+                            "name": "Exynos 7884"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Outros",
+                    "value_type": "string",
+                    "name": "Modelo do processador",
+                    "value_id": "7444531",
+                    "value_name": "Exynos 7884",
+                    "value_struct": null,
+                    "source": 1
+                },
+                {
+                    "attribute_group_id": "OTHERS",
+                    "source": 1,
+                    "value_type": "number_unit",
+                    "id": "WEIGHT",
+                    "value_id": "6793640",
+                    "value_name": "168 g",
+                    "value_struct": {
+                        "number": 168,
+                        "unit": "g"
+                    },
+                    "values": [
+                        {
+                            "id": "6793640",
+                            "name": "168 g",
+                            "struct": {
+                                "number": 168,
+                                "unit": "g"
+                            },
+                            "source": 1
+                        }
+                    ],
+                    "name": "Peso",
+                    "attribute_group_name": "Outros"
+                }
+            ],
+            "differential_pricing": {
+                "id": 33580182
+            },
+            "original_price": null,
+            "category_id": "MLB1055",
+            "official_store_id": null,
+            "domain_id": "MLB-CELLPHONES",
+            "catalog_product_id": "MLB14648948",
+            "tags": [
+                "extended_warranty_eligible",
+                "good_quality_picture",
+                "good_quality_thumbnail",
+                "brand_verified",
+                "immediate_payment",
+                "cart_eligible",
+                "shipping_guaranteed"
+            ],
+            "catalog_listing": true,
+            "use_thumbnail_id": true,
+            "offer_score": null,
+            "offer_share": null,
+            "match_score": null,
+            "winner_item_id": null,
+            "melicoin": null,
+            "discounts": null,
+            "inventory_id": "WXUT78920",
+            "order_backend": 3
+        }
+    ],
+    "sort": {
+        "id": "relevance",
+        "name": "Mais relevantes"
+    },
+    "available_sorts": [
+        {
+            "id": "price_asc",
+            "name": "Menor pre\u00e7o"
+        },
+        {
+            "id": "price_desc",
+            "name": "Maior pre\u00e7o"
+        }
+    ],
+    "filters": [
+        {
+            "id": "category",
+            "name": "Categorias",
+            "type": "text",
+            "values": [
+                {
+                    "id": "MLB1055",
+                    "name": "Celulares e Smartphones",
+                    "path_from_root": [
+                        {
+                            "id": "MLB1051",
+                            "name": "Celulares e Telefones"
+                        },
+                        {
+                            "id": "MLB1055",
+                            "name": "Celulares e Smartphones"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "BRAND",
+            "name": "Marca",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "206",
+                    "name": "Samsung"
+                }
+            ]
+        }
+    ],
+    "available_filters": [
+        {
+            "id": "official_store",
+            "name": "Lojas oficiais",
+            "type": "text",
+            "values": [
+                {
+                    "id": "all",
+                    "name": "Todas las tiendas oficiales",
+                    "results": 8
+                },
+                {
+                    "id": "2945",
+                    "name": "Trocafone",
+                    "results": 8
+                }
+            ]
+        },
+        {
+            "id": "state",
+            "name": "Localiza\u00e7\u00e3o",
+            "type": "text",
+            "values": [
+                {
+                    "id": "TUxCUFNBT085N2E4",
+                    "name": "S\u00e3o Paulo",
+                    "results": 63
+                },
+                {
+                    "id": "TUxCUE1JTlMxNTAyZA",
+                    "name": "Minas Gerais",
+                    "results": 21
+                },
+                {
+                    "id": "TUxCUFJJT0xkYzM0",
+                    "name": "Rio Grande do Sul",
+                    "results": 14
+                },
+                {
+                    "id": "TUxCUFBBUkExODBlZA",
+                    "name": "Paran\u00e1",
+                    "results": 11
+                },
+                {
+                    "id": "TUxCUFJJT08xODM5Zg",
+                    "name": "Rio de Janeiro",
+                    "results": 11
+                },
+                {
+                    "id": "TUxCUEJBSEFlYmEx",
+                    "name": "Bahia",
+                    "results": 7
+                },
+                {
+                    "id": "TUxCUFNBTkE5Nzc4",
+                    "name": "Santa Catarina",
+                    "results": 7
+                },
+                {
+                    "id": "TUxCUE1BVE9jZDY0",
+                    "name": "Mato Grosso",
+                    "results": 6
+                },
+                {
+                    "id": "TUxCUFBFUk8xZmZj",
+                    "name": "Pernambuco",
+                    "results": 4
+                },
+                {
+                    "id": "TUxCUE1BUk81MWVi",
+                    "name": "Maranh\u00e3o",
+                    "results": 2
+                },
+                {
+                    "id": "TUxCUEFNQVMxNzgwYQ",
+                    "name": "Amazonas",
+                    "results": 1
+                },
+                {
+                    "id": "TUxCUENFQUExNzkyZQ",
+                    "name": "Cear\u00e1",
+                    "results": 1
+                },
+                {
+                    "id": "TUxCUERJU0wxMWJhYg",
+                    "name": "Distrito Federal",
+                    "results": 1
+                },
+                {
+                    "id": "TUxCUFBJQUk1NDVj",
+                    "name": "Piau\u00ed",
+                    "results": 1
+                },
+                {
+                    "id": "TUxCUFJJT0VkMmNj",
+                    "name": "Rio Grande do Norte",
+                    "results": 1
+                },
+                {
+                    "id": "TUxCUFNFUkUxMmZlOQ",
+                    "name": "Sergipe",
+                    "results": 1
+                },
+                {
+                    "id": "TUxCUFRPQ1NjZDBm",
+                    "name": "Tocantins",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "price",
+            "name": "Pre\u00e7o",
+            "type": "range",
+            "values": [
+                {
+                    "id": "*-600.0",
+                    "name": "At\u00e9 R$600",
+                    "results": 53
+                },
+                {
+                    "id": "600.0-750.0",
+                    "name": "R$600 a R$750",
+                    "results": 53
+                },
+                {
+                    "id": "750.0-*",
+                    "name": "Mais de R$750",
+                    "results": 54
+                }
+            ]
+        },
+        {
+            "id": "accepts_mercadopago",
+            "name": "Filtro por MercadoPago",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Com MercadoPago",
+                    "results": 161
+                }
+            ]
+        },
+        {
+            "id": "installments",
+            "name": "Pagamento",
+            "type": "text",
+            "values": [
+                {
+                    "id": "no_interest",
+                    "name": "Sem juros",
+                    "results": 33
+                }
+            ]
+        },
+        {
+            "id": "shipping",
+            "name": "Tipo de envio",
+            "type": "text",
+            "values": [
+                {
+                    "id": "mercadoenvios",
+                    "name": "Mercado Envios",
+                    "results": 161
+                }
+            ]
+        },
+        {
+            "id": "power_seller",
+            "name": "Filtro MercadoL\u00edderes",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Melhores vendedores",
+                    "results": 14
+                }
+            ]
+        },
+        {
+            "id": "since",
+            "name": "Filtro por data de in\u00edcio",
+            "type": "text",
+            "values": [
+                {
+                    "id": "today",
+                    "name": "Anunciados hoje",
+                    "results": 5
+                }
+            ]
+        },
+        {
+            "id": "until",
+            "name": "Filtro por data do fim",
+            "type": "text",
+            "values": [
+                {
+                    "id": "today",
+                    "name": "Termina hoje",
+                    "results": 2
+                }
+            ]
+        },
+        {
+            "id": "has_video",
+            "name": "Filtro por publica\u00e7\u00f5es com v\u00eddeo",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Publica\u00e7\u00f5es com v\u00eddeo",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "has_pictures",
+            "name": "Filtro por publica\u00e7\u00e3o com imagens",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Com fotos",
+                    "results": 161
+                }
+            ]
+        },
+        {
+            "id": "shipping_cost",
+            "name": "Custo do frete",
+            "type": "text",
+            "values": [
+                {
+                    "id": "free",
+                    "name": "Gratis",
+                    "results": 71
+                }
+            ]
+        },
+        {
+            "id": "CARRIER",
+            "name": "Operadora",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "298335",
+                    "name": "Desbloqueado",
+                    "results": 146
+                },
+                {
+                    "id": "298332",
+                    "name": "Vivo",
+                    "results": 8
+                },
+                {
+                    "id": "298334",
+                    "name": "TIM",
+                    "results": 3
+                },
+                {
+                    "id": "298333",
+                    "name": "Claro",
+                    "results": 3
+                }
+            ]
+        },
+        {
+            "id": "DISPLAY_SIZE",
+            "name": "Tamanho da tela",
+            "type": "range",
+            "values": [
+                {
+                    "id": "(*-6.4\"]",
+                    "name": "6,4 \" ou menos",
+                    "results": 150
+                },
+                {
+                    "id": "[6.4\"-*)",
+                    "name": "6,4 \" ou mais",
+                    "results": 156
+                }
+            ]
+        },
+        {
+            "id": "INTERNAL_MEMORY",
+            "name": "Mem\u00f3ria interna",
+            "type": "range",
+            "values": [
+                {
+                    "id": "(*-64GB)",
+                    "name": "Menos de 64 GB",
+                    "results": 155
+                },
+                {
+                    "id": "[64GB-128GB)",
+                    "name": "64 a 127 GB",
+                    "results": 4
+                },
+                {
+                    "id": "[128GB-*)",
+                    "name": "128 GB ou mais",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "IS_DUAL_SIM",
+            "name": "Outras caracter\u00edsticas",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "242085",
+                    "name": "\u00c9 Dual SIM",
+                    "results": 100
+                }
+            ]
+        },
+        {
+            "id": "IS_WATER_RESISTANT",
+            "name": "Outras caracter\u00edsticas",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "242085",
+                    "name": "\u00c9 resistente \u00e0 \u00e1gua",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "ITEM_CONDITION",
+            "name": "Condi\u00e7\u00e3o",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "2230581",
+                    "name": "Usado",
+                    "results": 146
+                },
+                {
+                    "id": "2230582",
+                    "name": "Recondicionado",
+                    "results": 8
+                },
+                {
+                    "id": "2230284",
+                    "name": "Novo",
+                    "results": 6
+                }
+            ]
+        },
+        {
+            "id": "LINE",
+            "name": "Linha",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "322977",
+                    "name": "Galaxy A",
+                    "results": 152
+                },
+                {
+                    "id": "43675",
+                    "name": "Galaxy",
+                    "results": 2
+                }
+            ]
+        },
+        {
+            "id": "MAIN_COLOR",
+            "name": "Cor principal",
+            "type": "list",
+            "values": [
+                {
+                    "id": "2450295",
+                    "name": "Preto",
+                    "results": 73
+                },
+                {
+                    "id": "2450293",
+                    "name": "Azul",
+                    "results": 46
+                },
+                {
+                    "id": "2450307",
+                    "name": "Vermelho",
+                    "results": 28
+                }
+            ]
+        },
+        {
+            "id": "MOBILE_NETWORK",
+            "name": "Rede",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "367876",
+                    "name": "4G/LTE",
+                    "results": 159
+                }
+            ]
+        },
+        {
+            "id": "MODEL",
+            "name": "Modelo",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "7103125",
+                    "name": "A20 Duos",
+                    "results": 86
+                },
+                {
+                    "id": "8073",
+                    "name": "A20",
+                    "results": 56
+                },
+                {
+                    "id": "11824708",
+                    "name": "A20s Dual SIM",
+                    "results": 7
+                },
+                {
+                    "id": "7112057",
+                    "name": "A10 Duos",
+                    "results": 2
+                }
+            ]
+        },
+        {
+            "id": "OPERATING_SYSTEM_NAME",
+            "name": "Nome do sistema operacional",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "7403813",
+                    "name": "Android",
+                    "results": 159
+                }
+            ]
+        },
+        {
+            "id": "RAM",
+            "name": "Mem\u00f3ria RAM",
+            "type": "range",
+            "values": [
+                {
+                    "id": "(*-2GB]",
+                    "name": "2 GB ou menos",
+                    "results": 9
+                },
+                {
+                    "id": "[3GB-3GB]",
+                    "name": "3 GB",
+                    "results": 142
+                },
+                {
+                    "id": "[4GB-4GB]",
+                    "name": "4 GB",
+                    "results": 5
+                },
+                {
+                    "id": "[6GB-6GB]",
+                    "name": "6 GB",
+                    "results": 1
+                },
+                {
+                    "id": "[8GB-*)",
+                    "name": "8 GB ou mais",
+                    "results": 3
+                }
+            ]
+        },
+        {
+            "id": "SHIPPING_ORIGIN",
+            "name": "Tipo de compra",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "10215068",
+                    "name": "Local",
+                    "results": 161
+                }
+            ]
+        },
+        {
+            "id": "WITH_FACIAL_RECOGNITION",
+            "name": "Outras caracter\u00edsticas",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "242085",
+                    "name": "Com reconhecimento facial",
+                    "results": 159
+                }
+            ]
+        },
+        {
+            "id": "WITH_FINGERPRINT_READER",
+            "name": "Outras caracter\u00edsticas",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "242085",
+                    "name": "Com leitor de impress\u00e3o digital",
+                    "results": 156
+                }
+            ]
+        }
+    ]
+}
